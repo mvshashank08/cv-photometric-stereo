@@ -23,8 +23,11 @@ The task focuses the following sections:
 
 ## Results
 Albedos of Buddha idol
+
 ![Albedos of Budda](results/budda_albedos.png)
 
 Lighting the Stanford Bunny from different view points.
+
 ![Stanford Bunny from view point 1](results/stanford_bunny.png)
+
 ![Stanford Bunny from view point 2](results/stanford_bunny2.png)
